@@ -1,2 +1,3 @@
-# c--programming-2st-semester
+# c++programming-2st-semester
 class coding in C++
+@UNISINOS Student
